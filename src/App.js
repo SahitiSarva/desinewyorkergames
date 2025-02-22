@@ -10,6 +10,9 @@ const games = [
 const App = () => {
   return (
     <div className="app-container">
+      <h1 style={{ textAlign: "center", marginTop: "20px", fontSize: "24px", fontWeight: "bold" }}>
+        Word Games for Our Verbose Wordsmith
+      </h1>
       <div className="game-selection" style={{ marginTop: "100px" }}>
         <div className="game-boxes" style={{
           display: "flex",
@@ -43,6 +46,9 @@ const App = () => {
           ))}
         </div>
       </div>
+      <footer style={{ textAlign: "center", marginTop: "50px", padding: "10px", fontSize: "14px", color: "gray" }}>
+        With ❤️ from all the women in your life 
+      </footer>
     </div>
   );
 };
