@@ -3,7 +3,7 @@ import "./App.css"; // Add styling for the main app
 
 const games = [
   { name: "Wordle", link: "https://mywordle.strivemath.com/?word=iijln", logo: "wordle-logo.png" },
-  { name: "Strands", link: "https://customstrandsnyt.com/play/EyeRoll/", logo: "strands-logo.png" },
+  { name: "Strands", link: "https://customstrandsnyt.com/play/Siddhanths30/", logo: "strands-logo.png" },
   { name: "Connections", link: "https://custom-connections-game.vercel.app/msEjSxccAJwB0gmFFpWC", logo: "connections-logo.png" }
 ];
 
