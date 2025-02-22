@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.435d5fe5.chunk.css",
-    "main.js": "/static/js/main.7bcd0661.chunk.js",
-    "main.js.map": "/static/js/main.7bcd0661.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.b45b9353.js",
-    "runtime~main.js.map": "/static/js/runtime~main.b45b9353.js.map",
-    "static/js/2.ae026ab9.chunk.js": "/static/js/2.ae026ab9.chunk.js",
-    "static/js/2.ae026ab9.chunk.js.map": "/static/js/2.ae026ab9.chunk.js.map",
-    "static/js/3.a29efab2.chunk.js": "/static/js/3.a29efab2.chunk.js",
-    "static/js/3.a29efab2.chunk.js.map": "/static/js/3.a29efab2.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.37ae7454fc54cd115cff45d62a6cad2c.js": "/precache-manifest.37ae7454fc54cd115cff45d62a6cad2c.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.435d5fe5.chunk.css.map": "/static/css/main.435d5fe5.chunk.css.map"
+    "main.css": "/desinewyorkergames/static/css/main.435d5fe5.chunk.css",
+    "main.js": "/desinewyorkergames/static/js/main.7bcd0661.chunk.js",
+    "main.js.map": "/desinewyorkergames/static/js/main.7bcd0661.chunk.js.map",
+    "runtime~main.js": "/desinewyorkergames/static/js/runtime~main.53aba105.js",
+    "runtime~main.js.map": "/desinewyorkergames/static/js/runtime~main.53aba105.js.map",
+    "static/js/2.ae026ab9.chunk.js": "/desinewyorkergames/static/js/2.ae026ab9.chunk.js",
+    "static/js/2.ae026ab9.chunk.js.map": "/desinewyorkergames/static/js/2.ae026ab9.chunk.js.map",
+    "static/js/3.a29efab2.chunk.js": "/desinewyorkergames/static/js/3.a29efab2.chunk.js",
+    "static/js/3.a29efab2.chunk.js.map": "/desinewyorkergames/static/js/3.a29efab2.chunk.js.map",
+    "index.html": "/desinewyorkergames/index.html",
+    "precache-manifest.178a6ae6aaa59d6a8b7b36e8d4706a1d.js": "/desinewyorkergames/precache-manifest.178a6ae6aaa59d6a8b7b36e8d4706a1d.js",
+    "service-worker.js": "/desinewyorkergames/service-worker.js",
+    "static/css/main.435d5fe5.chunk.css.map": "/desinewyorkergames/static/css/main.435d5fe5.chunk.css.map"
   }
 }
