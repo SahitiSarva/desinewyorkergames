@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9b18f7061daa4e6908dc1da5aaabb3a1",
+    "revision": "bcdcb4ae0761c22ca6c1a9188580a581",
     "url": "/desinewyorkergames/index.html"
   },
   {
-    "revision": "4a4452651f3e46a529e2",
+    "revision": "edf40630a96a07500e7d",
     "url": "/desinewyorkergames/static/css/main.435d5fe5.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/desinewyorkergames/static/js/3.a29efab2.chunk.js"
   },
   {
-    "revision": "4a4452651f3e46a529e2",
-    "url": "/desinewyorkergames/static/js/main.7bcd0661.chunk.js"
+    "revision": "edf40630a96a07500e7d",
+    "url": "/desinewyorkergames/static/js/main.21628146.chunk.js"
   },
   {
     "revision": "0611025d2c196008a07e",

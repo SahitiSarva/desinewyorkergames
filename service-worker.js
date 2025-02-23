@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/desinewyorkergames/precache-manifest.178a6ae6aaa59d6a8b7b36e8d4706a1d.js"
+  "/desinewyorkergames/precache-manifest.2fc05fa97a825b7615dac772d8baa107.js"
 );
 
 self.addEventListener('message', (event) => {
